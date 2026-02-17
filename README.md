@@ -38,9 +38,8 @@ The tabs and scripting permissions are used to:
 - Enable automated downloading
 
 These permissions are not used to monitor browsing activity or collect unrelated data.
-## 6. Offscreen Processing
-The offscreen permission is used to process images or background tasks without displaying visible browser tabs.
-## 7. Data Sharing
+
+## 6. Data Sharing
 Hawkeye does not:
 - Sell data
 - Share data
@@ -49,9 +48,9 @@ Hawkeye does not:
 - Use tracking technologies
 
 All functionality occurs locally within the user's browser.
-## 8. Data Retention
+## 7. Data Retention
 User data remains stored locally until:
 - The user deletes it, or
 - The extension is uninstalled. Upon uninstallation, Chrome automatically removes stored extension data.
-## 9. Contact
+## 8. Contact
 For questions about this policy, contact: ashg875@proton.me
