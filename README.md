@@ -31,9 +31,9 @@ The extension only accesses domains necessary for this functionality and only wh
 ## 4. Downloads Permission
 The downloads permission is used solely to allow users to save images to their device.  
 No downloaded content is transmitted anywhere else.
-## 5. Tabs & Scripting Permissions
-The tabs and scripting permissions are used to:
-- Open event pages in background tabs
+## 5. Scripting Permission
+The Scripting permission are used to:
+- Open event pages in background windows
 - Retrieve publicly available photo data
 - Enable automated downloading
 
